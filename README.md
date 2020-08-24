@@ -1,0 +1,2 @@
+# coreTeam
+fundamental projects
